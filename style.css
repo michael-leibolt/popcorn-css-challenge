@@ -5,6 +5,7 @@ Header Text - #553100
 Main background - #D4A76A*/
 header {
   background-color: #ffdbaa;
+  border: 1px solid #333;
 }
 #Header {
   background-color: #ffdbaa;
