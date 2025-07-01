@@ -5,9 +5,16 @@ Header Text - #553100
 Main background - #D4A76A*/
 header {
   background-color: #ffdbaa;
-  border: 1px solid #333;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border: 1px solid black;
+  button {
+    padding: 10px 10px 10px 10px;
+    background-color: #553100;
+    color: azure;
+
+  }
 }
-#Header {
-  background-color: #ffdbaa;
-  color: #553100;
+body {
+  background-color: #d4a76a;
 }
